@@ -1,0 +1,3 @@
+use shadcn/ui as the base design system---
+alwaysApply: true
+---
